@@ -12,13 +12,12 @@ from TelethonHell.clients.client_list import get_user_id
 from TelethonHell.plugins import *
 
 ping_txt = """
-<b><i>╰•★★ 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑-𝐁𝐎𝐓 ★★•╯</b></i>
+<b><i>╰•★★ 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 ★★•╯</b></i>
 
     ⚘  <i>𝑺𝑷𝑬𝑬𝑫:</i> <code>{}</code>
     ⚘  <i>𝑼𝑷𝑻𝑰𝑴𝑬:</i> <code>{}</code>
     ⚘  <i>𝑶𝑾𝑵𝑬𝑹:</i> {}
-    
-    <b><i>✬ <a href='https://t.me/SHIVANSH474'>✦𝑯𝑬𝑳𝑷✦</a> ✬</i></b>
+   <b><i>✬ <a href='https://t.me/SHIVANSH474'>✦𝑯𝑬𝑳𝑷✦</a> ✬</i></b>
 """
 
 
