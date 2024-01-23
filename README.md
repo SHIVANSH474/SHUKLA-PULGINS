@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>†hê Hêllẞø† 🇮🇳</b>
+  <b>𝑺𝑯𝑰𝑽-𝑶𝑷 🇮🇳</b>
 </h1>
 
 <p align="center">
@@ -7,26 +7,17 @@
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>⚡ 𝑵𝑶𝑻𝑯𝑰𝑵𝑮 𝑺𝑷𝑬𝑪𝑨𝑰𝑳⚡</b>
 </h6>
 
 <h3 align="center">
-  <b>A Smooth & Fast Telegram Userbot Based On Telethon Bot Library.</b>
+  <b>A Smooth & Fast File for vc tool.</b>
 </h3>
 
 -----
 
-<details><summary><h1><b>Deploy Alternatives 🥷🏻</h1></b></summary>
-
-  - 
-    [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/The-HellBot/Plugins-T&branch=master&name=hellbot-koyeb&run_command=bash+runkoyeb&env[APP_ID]&env[API_HASH]&env[BOT_TOKEN]&env[HELLBOT_SESSION]&env[DATABASE_URL])
-
-</details>
-
------
-
 <h1 align="center">
-  <b>Follow this format to make your own plugin for HellBot</b>
+  <b>Follow this format to make your own vc tool</b>
 </h1>
 
 ```python3
@@ -87,23 +78,6 @@ CmdHelp("hii").add_command(
 - Forking Repo is fine. But if you edit something we will not provide any help.
 - In short, Fork At Your Own Risk.
 
-------
-# License
-
-![](https://www.gnu.org/graphics/gplv3-or-later.png)
-
-<h4 align="center">Copyright (C) 2022 <a href="https://github.com/The-HellBot">The-HellBot</a></h4>
-
-Project [HellBot](https://github.com/The-HellBot/HellBot) is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-You should have received a copy of the GNU General Public License
-along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 ------
 ## Credits
